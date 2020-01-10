@@ -1,5 +1,5 @@
 #include<stdio.h>
-it square(int x);
+it square(int);
 int main()
 { int n,s;
 printf("enter the number");
